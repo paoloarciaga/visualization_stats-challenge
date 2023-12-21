@@ -9,14 +9,14 @@ In this repo, you will see how I’ve conducted the following:
 - Quartiles, Outliers, and Box plot
 - Line and Scatter plot
 - Correlation and Regression
-- Final Analysis
+- Final Analysis (can be found at the top of my jupyter notebook, as well as my final python file) 
 
-To fulfill the requirements of this Data Visualization & Statistics Challenge, I applied the skills acquired from class to develop my initial code. Additionally, I consulted my tutor for further assistance, aming to troubleshoot my code and verify the functionality of it. My tutor was able to help me with the following parts of my code:
-- Using the ‘pd.cut’ function to categorize spending into bins
-- Editing my code to fix my school-size dataframe, as my initial code incorrectly categorized every school as small.
+To fulfill the requirements of this Data Visualization & Statistics Challenge, I applied the skills acquired from class to develop my initial code. Additionally, I consulted my tutor for further assistance, aming to troubleshoot my code and verify the functionality of it. My tutor was able to help me with the following:
+- Editing my code to locate the rows which contain mice on each drug and getting the tumor volumes
+- Determining outliers by using upper and lower bounds 
 
 The following files can be found in the ‘Pymaceuticals’ folder of this repo:
 - The Jupyter Notebook file (.ipynb) where I practiced my code
 - My final Python file (.py)
 
-Within the ‘Resources’ folder of this repo, you will find both csv files that I ultimately stored into Pandas DataFrames and merged into a single dataset in order to conduct my analysis.
+Within the ‘data’ folder of this repo, you will find both csv files that I ultimately stored into Pandas DataFrames and merged into a single dataset in order to conduct my analysis.
