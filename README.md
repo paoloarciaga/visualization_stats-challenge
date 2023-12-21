@@ -11,7 +11,7 @@ In this repo, you will see how I’ve conducted the following:
 - Correlation and Regression
 - Final Analysis (can be found at the top of my jupyter notebook, as well as my final python file) 
 
-To fulfill the requirements of this Data Visualization & Statistics Challenge, I applied the skills acquired from class to develop my initial code. Additionally, I consulted my tutor for further assistance, aming to troubleshoot my code and verify the functionality of it. My tutor was able to help me with the following:
+To fulfill the requirements of this Data Visualization & Statistics Challenge, I applied the skills acquired from class to develop my initial code. Additionally, I consulted my tutor for further assistance, aiming to troubleshoot my code and verify the functionality of it. My tutor was able to help me with the following:
 - Editing my code to locate the rows which contain mice on each drug and getting the tumor volumes
 - Determining outliers by using upper and lower bounds 
 
